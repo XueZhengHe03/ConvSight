@@ -1,0 +1,8 @@
+Model: MultimodalFusionModel (Dynamic Gated Fusion, d_model=32)
+Total Samples: 1014
+Mean Accuracy: 0.9931 ± 0.0039
+Overall Accuracy: 0.9911
+Recall (Converged): 0.9900
+Recall (Unconverged): 0.9922
+
+Fold Scores: [0.9950738916256158, 0.9901477832512315, 0.9901477832512315, 0.9901477832512315, 1.0]
